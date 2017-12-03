@@ -1,0 +1,58 @@
+el lenguaje unificado de modelado:
+guía del usuario
+- Cap. 17: Casos de uso
+- Cap. 18: Diagramas de casos de uso
+- Ap. A: Notación UML
+
+análisis estructurado moderno
+- Cap. 5: El ciclo de vida del proyecto
+- Cap. 23: Programación y prueba
+
+análisis estructurado moderno
+- Cap. 5: El ciclo de vida del proyecto
+- Cap. 23: Programación y prueba
+
+análisis estructurado moderno
+- Cap. 5: El ciclo de vida del proyecto
+- Cap. 23: Programación y prueba
+
+análisis estructurado moderno
+- Cap. 24: Mantenimiento de la especificación
+
+el lenguaje unificado de modelado:
+guía del usuario
+- Cap. 1: Por qué modelamos
+- Cap. 2: Presentación de UML
+
+el lenguaje unificado de modelado:
+
+guía del usuario
+- Cap. 4: Clases
+- Cap. 5: Relaciones
+- Cap. 9: Características avanzadas de las clases
+- Cap. 10: Características avanzadas de las relaciones
+- Cap. 13: Instancias
+- Ap. A: Notación UML
+
+apuntes
+- Conceptos básicos OO
+
+el lenguaje unificado de modelado:
+guía del usuario
+- Cap. 2: Presentación de UML
+- Cap. 7: Diagramas
+
+el lenguaje unificado de modelado:
+guía del usuario
+- Cap. 17: Casos de uso
+- Cap. 18: Diagramas de casos de uso
+- Ap. A: Notación UML
+
+el lenguaje unificado de modelado:
+guía del usuario
+- Cap. 7: Diagramas
+- Cap. 8: Diagramas de clases
+- Cap: 18: Diagramas de casos de uso
+- Cap. 19: Diagramas de interacción
+- Cap. 20: Diagramas de actividades
+- Ap. A: Notación UML

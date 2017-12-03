@@ -1,0 +1,37 @@
+Tecnologia: aplicacion de conocimiento cientifico para la creacion de cosas utiles o resolucion de problemas
+Ciencia: conocimiento y estudio sistematico del comportamiento y estructura del mundo fisico y natural basada en el aprendizaje atraves de la observacion y la experimentacion
+Tecnica: forma de ejecutar una accion con conocimiento y habilidades especificas
+Arte: expresion de la creatividad humana
+Programacion: acto u oficio de crear un programa, es decir crear instrucciones para controlar las operaciones de una computadora
+Informatica: estudio y uso de computadoras para automatizar la informacion, asi sea la distribucion, almacenamiento y procesamiento de datos
+Sistema: conjunto de partes conectadas que conforman un todo
+Paradigma: conjunto de ideas sobre como pensar y encarar algo
+	- estructurado: enfatiza los procesos(funciones)
+	- orientado a objetos: enfatiza la estructura de los objetos
+Metodologia: sistema compuesto de metodos, reglas y postulados utilizados en un area de estudio o actividad paranormal
+Metodo: forma practica, cuidadosa y organizada de llevar adelante un objetivo
+Regla: principio que determina lo posible o permitido en un area de conocimiento particular
+Postulado: idea sugerida y establecida como correcta para razonar y discutir
+Analisis: romper un tema en partes mas chicas para poder comprenderlo mejor
+Analisis de Sistema: estudiar una actividad para determinar el objetivo y alcanze, al mismo tiempo descubrir el procedimiento mas eficiente posible para llegar al resultado
+Ingenieria: arte y tecnica de poner conocimiento cientifico en un invencion, diseño o sistema
+Modelo: mirada reduccionista de la realidad, que permite enforcarse en una parte particular y nos brinda diferentes niveles de abstraccion.
+	Ventajas:
+		- bajo costo de cambios
+		- eliminar ambiguedades
+		- dejar mas claro el requerimiento del cliente
+		- focalizarse en un aspecto a la vez
+		- concentarnos en lo importante
+Usuarios:
+	- operacionales
+	- ejecutivos
+	- supervisor
+Administrador:
+	- de usuarios
+	- generales
+	- de informatica
+Auditor: de control de calidad , normas o estandares
+Analista de Sistemas: arqueolo, innovador, mediador. Estudiar el problema del usuario y modela un sistema que lo resuelva
+Diseñador: lleva adelante una implementacion mas concretra del sistema a partir de la idea del Analista
+Programador: ejecuta idea del diseñador
+Personas Operacionales: responsables de los recursos tecnicos
